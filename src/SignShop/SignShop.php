@@ -13,8 +13,8 @@
  * @link http://xionbig.netsons.org/plugins/SignShop 
  * @link http://forums.pocketmine.net/plugins/signshop.668/
  * @description Buy and Sell the items using Signs with virtual-money.
- * @version 3.0.0-ALPHA11
- * @api 1.12.0
+ * @version 1.11.0
+ * @api 1.11.0
 
 namespace SignShop;
 
